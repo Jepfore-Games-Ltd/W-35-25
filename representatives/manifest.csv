@@ -1,0 +1,567 @@
+id,path,family,published_class,source_id,core,completion_pair,lambda,method,rank5,pi0,pi1,symmetric
+H001,published/H001.txt,published,1,H010,III,"(0, 4, 1)",J,"Paper construction; neater Lambda = J representative; border permutation (0, 1, 3, 4, 2, 5); no block negations",10,5950,13910,True
+H002,published/H002.txt,published,2,H440,I,"(6, 6)",0,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); no block negations",17,6965,12440,True
+H003,published/H003.txt,published,3,H002,III,"(0, 4, -1)",-J,"Paper construction; border permutation (0, 1, 3, 4, 2, 5); negated Lambda",9,5940,13800,True
+H004,published/H004.txt,published,4,H031,IIIn,"(0, 4, 1)",J,"Paper construction; border permutation (0, 1, 3, 4, 2, 5); negated the distinguished all-ones block of Sigma",11,6050,13110,True
+H005,published/H005.txt,published,5,H013,IIIn,"(0, 4, -1)",-J,"Paper construction; border permutation (0, 1, 3, 4, 2, 5); negated Lambda and the distinguished all-ones block of Sigma",10,6040,13000,True
+H006,published/H006.txt,published,6,H300,I,"(3, 6)",0,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); negated the upper all-ones block of Psi",16,6910,12350,False
+H007,published/H007.txt,published,7,H308,I,"(6, 3)",0,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); negated the lower all-ones block of Phi",16,6925,12510,False
+H008,published/H008.txt,published,8,H127,I,"(3, 3)",0,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); negated the upper all-ones block of Psi and the lower all-ones block of Phi",15,6870,12420,True
+H009,published/H009.txt,published,9,H001,IIIn,"(2, 2, -1)",-J,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); negated Lambda and the distinguished all-ones block of Sigma",8,6850,12650,True
+H010,published/H010.txt,published,10,H006,III,"(2, 2, -1)",-J,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); negated Lambda",9,6750,13450,True
+H011,published/H011.txt,published,11,H007,IIIn,"(2, 2, 1)",J,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); negated the distinguished all-ones block of Sigma",9,7000,12300,True
+H012,published/H012.txt,published,12,H009,III,"(0, 1, -1)",J,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); no block negations",10,5940,13770,True
+H013,published/H013.txt,published,13,H011,III,"(0, 0, 1)",J,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); no block negations",10,5955,13895,True
+H014,published/H014.txt,published,14,H012,IIIn,"(0, 0, -1)",-J,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); negated Lambda and the distinguished all-ones block of Sigma",10,6035,13015,True
+H015,published/H015.txt,published,15,H014,IIIn,"(0, 1, 1)",-J,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); negated Lambda and the distinguished all-ones block of Sigma",10,6050,13140,True
+H016,published/H016.txt,published,16,H025,III,"(2, 2, 1)",J,"Paper construction; border permutation (0, 1, 2, 3, 4, 5); no block negations",10,6900,13100,True
+H017,published/H017.txt,published,17,H028,III,"(0, 0, -1)",-J,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); negated Lambda",11,5935,13815,True
+H018,published/H018.txt,published,18,H029,III,"(0, 1, 1)",-J,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); negated Lambda",11,5950,13940,True
+H019,published/H019.txt,published,19,H030,IIIn,"(0, 1, -1)",J,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); negated the distinguished all-ones block of Sigma",11,6040,12970,True
+H020,published/H020.txt,published,20,H032,IIIn,"(0, 0, 1)",J,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); negated the distinguished all-ones block of Sigma",11,6055,13095,True
+H021,published/H021.txt,published,21,H043,I,"(2, 2)",0,"Paper construction; border permutation (0, 1, 3, 4, 2, 5); no block negations",13,6975,12615,True
+H022,published/H022.txt,published,22,H057,I,"(11, 2)",0,"Paper construction; border permutation (0, 1, 3, 4, 2, 5); negated the upper all-ones block of Psi",14,6900,12675,False
+H023,published/H023.txt,published,23,H071,I,"(2, 11)",0,"Paper construction; border permutation (0, 1, 3, 4, 2, 5); negated the lower all-ones block of Phi",14,7045,12565,False
+H024,published/H024.txt,published,24,H111,I,"(7, 7)",0,"Paper construction; border permutation (0, 1, 2, 3, 5, 4); no block negations",15,6830,12670,True
+H025,published/H025.txt,published,25,H147,I,"(0, 0)",0,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); no block negations",15,6920,12360,True
+H026,published/H026.txt,published,26,H163,I,"(11, 11)",0,"Paper construction; border permutation (0, 1, 2, 5, 4, 3); no block negations",15,6970,12625,True
+H027,published/H027.txt,published,27,H175,I,"(4, 4)",0,"Paper construction; border permutation (0, 1, 3, 4, 5, 2); no block negations",15,6995,12505,True
+H028,published/H028.txt,published,28,H191,I,"(8, 8)",0,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); no block negations",15,7045,12510,True
+H029,published/H029.txt,published,29,H230,I,"(10, 0)",0,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); negated the upper all-ones block of Psi",16,6735,12400,False
+H030,published/H030.txt,published,30,H253,I,"(1, 8)",0,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); negated the upper all-ones block of Psi",16,6820,12490,False
+H031,published/H031.txt,published,31,H261,I,"(5, 7)",0,"Paper construction; border permutation (0, 1, 2, 3, 5, 4); negated the upper all-ones block of Psi",16,6845,12650,False
+H032,published/H032.txt,published,32,H319,I,"(0, 10)",0,"Paper construction; border permutation (0, 1, 3, 2, 4, 5); negated the lower all-ones block of Phi",16,6965,12385,False
+H033,published/H033.txt,published,33,H342,I,"(8, 1)",0,"Paper construction; border permutation (0, 1, 2, 4, 3, 5); negated the lower all-ones block of Phi",16,6995,12625,False
+H034,published/H034.txt,published,34,H350,I,"(7, 5)",0,"Paper construction; border permutation (0, 1, 2, 3, 5, 4); negated the lower all-ones block of Phi",16,7015,12735,False
+H035,published/H035.txt,published,35,H397,I,"(9, 4)",0,"Paper construction; border permutation (0, 1, 3, 4, 5, 2); negated the upper all-ones block of Psi",16,7260,12475,False
+H036,published/H036.txt,published,36,H406,I,"(1, 1)",0,"Paper construction; border permutation (0, 1, 3, 2, 5, 4); no block negations",17,6770,12605,True
+H037,published/H037.txt,published,37,H408,I,"(10, 10)",0,"Paper construction; border permutation (0, 1, 2, 4, 5, 3); no block negations",17,6780,12425,True
+H038,published/H038.txt,published,38,H454,I,"(5, 5)",0,"Paper construction; border permutation (0, 1, 3, 5, 4, 2); no block negations",17,7030,12715,True
+H039,published/H039.txt,published,39,H467,I,"(9, 9)",0,"Paper construction; border permutation (0, 1, 2, 5, 3, 4); no block negations",17,7110,12290,True
+H040,published/H040.txt,published,40,H259,I,"(4, 9)",0,"Paper construction; border permutation (0, 1, 3, 4, 5, 2); negated the lower all-ones block of Phi",16,6845,12320,False
+H041,published/H041.txt,published,41,H455,II,"(6, 6)",0,"Separate CP-SAT construction; border permutation (0, 1, 2, 3, 4, 5); no block negations",17,7030,12780,True
+H042,completions/H042.txt,completion,n/a,H003,VII,"(0, 3)",0,"Completion pair (0, 3) on core VII",9,6220,13400,False
+H043,completions/H043.txt,completion,n/a,H004,IIIn,"(2, 0, -1)",signed rank-one (J-equivalent),"Completion pair (2, 0, -1) on core IIIn",9,6390,13070,False
+H044,completions/H044.txt,completion,n/a,H005,IIIn,"(0, 2, -1)",signed rank-one (J-equivalent),"Completion pair (0, 2, -1) on core IIIn",9,6550,12530,False
+H045,completions/H045.txt,completion,n/a,H008,VII,"(2, 2)",0,"Completion pair (2, 2) on core VII",9,7300,12700,True
+H046,completions/H046.txt,completion,n/a,H015,VII,"(0, 1)",0,"Completion pair (0, 1) on core VII",10,6220,13400,False
+H047,completions/H047.txt,completion,n/a,H016,VII,"(0, 10)",0,"Completion pair (0, 10) on core VII",10,6220,13400,False
+H048,completions/H048.txt,completion,n/a,H017,VII,"(0, 5)",0,"Completion pair (0, 5) on core VII",10,6220,13400,False
+H049,completions/H049.txt,completion,n/a,H018,VII,"(0, 6)",0,"Completion pair (0, 6) on core VII",10,6220,13400,False
+H050,completions/H050.txt,completion,n/a,H019,VII,"(0, 9)",0,"Completion pair (0, 9) on core VII",10,6220,13400,False
+H051,completions/H051.txt,completion,n/a,H020,III,"(2, 0, -1)",signed rank-one (J-equivalent),"Completion pair (2, 0, -1) on core III",10,6290,13870,False
+H052,completions/H052.txt,completion,n/a,H021,IIIn,"(2, 0, 1)",signed rank-one (J-equivalent),"Completion pair (2, 0, 1) on core IIIn",10,6420,13000,False
+H053,completions/H053.txt,completion,n/a,H022,III,"(0, 2, -1)",signed rank-one (J-equivalent),"Completion pair (0, 2, -1) on core III",10,6450,13330,False
+H054,completions/H054.txt,completion,n/a,H023,IIIn,"(0, 2, 1)",signed rank-one (J-equivalent),"Completion pair (0, 2, 1) on core IIIn",10,6580,12460,False
+H055,completions/H055.txt,completion,n/a,H024,VII,"(2, 0)",0,"Completion pair (2, 0) on core VII",10,6580,13380,False
+H056,completions/H056.txt,completion,n/a,H026,VII,"(0, 2)",0,"Completion pair (0, 2) on core VII",10,6940,12720,False
+H057,completions/H057.txt,completion,n/a,H027,VII,"(2, 11)",0,"Completion pair (2, 11) on core VII",10,7300,12700,False
+H058,completions/H058.txt,completion,n/a,H033,VII,"(0, 0)",0,"Completion pair (0, 0) on core VII",11,6220,13400,True
+H059,completions/H059.txt,completion,n/a,H034,VII,"(0, 4)",0,"Completion pair (0, 4) on core VII",11,6220,13400,False
+H060,completions/H060.txt,completion,n/a,H035,VII,"(0, 7)",0,"Completion pair (0, 7) on core VII",11,6220,13400,False
+H061,completions/H061.txt,completion,n/a,H036,VII,"(0, 8)",0,"Completion pair (0, 8) on core VII",11,6220,13400,False
+H062,completions/H062.txt,completion,n/a,H037,III,"(2, 0, 1)",signed rank-one (J-equivalent),"Completion pair (2, 0, 1) on core III",11,6320,13800,False
+H063,completions/H063.txt,completion,n/a,H038,III,"(0, 2, 1)",signed rank-one (J-equivalent),"Completion pair (0, 2, 1) on core III",11,6480,13260,False
+H064,completions/H064.txt,completion,n/a,H039,VII,"(2, 1)",0,"Completion pair (2, 1) on core VII",11,6580,13380,False
+H065,completions/H065.txt,completion,n/a,H040,VII,"(0, 11)",0,"Completion pair (0, 11) on core VII",11,6940,12720,False
+H066,completions/H066.txt,completion,n/a,H041,IX,"(7, 7)",0,"Completion pair (7, 7) on core IX",13,6840,13040,True
+H067,completions/H067.txt,completion,n/a,H042,II,"(2, 2)",0,"Completion pair (2, 2) on core II",13,6970,12575,True
+H068,completions/H068.txt,completion,n/a,H044,IX,"(10, 7)",0,"Completion pair (10, 7) on core IX",14,6710,13195,False
+H069,completions/H069.txt,completion,n/a,H045,IX,"(1, 7)",0,"Completion pair (1, 7) on core IX",14,6740,13115,False
+H070,completions/H070.txt,completion,n/a,H046,IX,"(5, 7)",0,"Completion pair (5, 7) on core IX",14,6760,13045,False
+H071,completions/H071.txt,completion,n/a,H047,IX,"(9, 7)",0,"Completion pair (9, 7) on core IX",14,6785,13020,False
+H072,completions/H072.txt,completion,n/a,H048,IX,"(6, 7)",0,"Completion pair (6, 7) on core IX",14,6790,12805,False
+H073,completions/H073.txt,completion,n/a,H049,IX,"(7, 1)",0,"Completion pair (7, 1) on core IX",14,6815,13000,False
+H074,completions/H074.txt,completion,n/a,H050,I,"(4, 2)",0,"Completion pair (4, 2) on core I",14,6825,12555,False
+H075,completions/H075.txt,completion,n/a,H051,I,"(2, 7)",0,"Completion pair (2, 7) on core I",14,6855,12530,False
+H076,completions/H076.txt,completion,n/a,H052,IX,"(7, 5)",0,"Completion pair (7, 5) on core IX",14,6855,13015,False
+H077,completions/H077.txt,completion,n/a,H053,I,"(2, 0)",0,"Completion pair (2, 0) on core I",14,6875,12525,False
+H078,completions/H078.txt,completion,n/a,H054,IX,"(7, 9)",0,"Completion pair (7, 9) on core IX",14,6875,12945,False
+H079,completions/H079.txt,completion,n/a,H055,IX,"(2, 7)",0,"Completion pair (2, 7) on core IX",14,6875,13115,False
+H080,completions/H080.txt,completion,n/a,H056,II,"(2, 4)",0,"Completion pair (2, 4) on core II",14,6890,12695,False
+H081,completions/H081.txt,completion,n/a,H058,II,"(3, 2)",0,"Completion pair (3, 2) on core II",14,6905,12640,False
+H082,completions/H082.txt,completion,n/a,H059,II,"(2, 8)",0,"Completion pair (2, 8) on core II",14,6910,12720,False
+H083,completions/H083.txt,completion,n/a,H060,IX,"(7, 2)",0,"Completion pair (7, 2) on core IX",14,6910,12885,False
+H084,completions/H084.txt,completion,n/a,H061,II,"(0, 2)",0,"Completion pair (0, 2) on core II",14,6915,12620,False
+H085,completions/H085.txt,completion,n/a,H062,I,"(2, 3)",0,"Completion pair (2, 3) on core I",14,6920,12525,False
+H086,completions/H086.txt,completion,n/a,H063,I,"(3, 2)",0,"Completion pair (3, 2) on core I",14,6925,12510,False
+H087,completions/H087.txt,completion,n/a,H064,II,"(2, 3)",0,"Completion pair (2, 3) on core II",14,6935,12495,False
+H088,completions/H088.txt,completion,n/a,H065,II,"(2, 11)",0,"Completion pair (2, 11) on core II",14,6940,12625,False
+H089,completions/H089.txt,completion,n/a,H066,II,"(11, 2)",0,"Completion pair (11, 2) on core II",14,6945,12685,False
+H090,completions/H090.txt,completion,n/a,H067,I,"(7, 2)",0,"Completion pair (7, 2) on core I",14,6950,12755,False
+H091,completions/H091.txt,completion,n/a,H068,IX,"(7, 6)",0,"Completion pair (7, 6) on core IX",14,6950,12830,False
+H092,completions/H092.txt,completion,n/a,H069,I,"(2, 8)",0,"Completion pair (2, 8) on core I",14,6975,12490,False
+H093,completions/H093.txt,completion,n/a,H070,I,"(0, 2)",0,"Completion pair (0, 2) on core I",14,7020,12450,False
+H094,completions/H094.txt,completion,n/a,H072,I,"(8, 2)",0,"Completion pair (8, 2) on core I",14,7045,12635,False
+H095,completions/H095.txt,completion,n/a,H073,II,"(8, 2)",0,"Completion pair (8, 2) on core II",14,7050,12750,False
+H096,completions/H096.txt,completion,n/a,H074,II,"(2, 7)",0,"Completion pair (2, 7) on core II",14,7055,12565,False
+H097,completions/H097.txt,completion,n/a,H075,IX,"(7, 10)",0,"Completion pair (7, 10) on core IX",14,7070,12855,False
+H098,completions/H098.txt,completion,n/a,H076,II,"(4, 2)",0,"Completion pair (4, 2) on core II",14,7080,12675,False
+H099,completions/H099.txt,completion,n/a,H077,II,"(7, 2)",0,"Completion pair (7, 2) on core II",14,7090,12480,False
+H100,completions/H100.txt,completion,n/a,H078,II,"(2, 0)",0,"Completion pair (2, 0) on core II",14,7125,12540,False
+H101,completions/H101.txt,completion,n/a,H079,I,"(2, 4)",0,"Completion pair (2, 4) on core I",14,7145,12565,False
+H102,completions/H102.txt,completion,n/a,H080,IX,"(3, 7)",0,"Completion pair (3, 7) on core IX",15,6660,13100,False
+H103,completions/H103.txt,completion,n/a,H081,IX,"(10, 1)",0,"Completion pair (10, 1) on core IX",15,6685,13155,False
+H104,completions/H104.txt,completion,n/a,H082,IX,"(11, 7)",0,"Completion pair (11, 7) on core IX",15,6695,13050,False
+H105,completions/H105.txt,completion,n/a,H083,I,"(4, 7)",0,"Completion pair (4, 7) on core I",15,6705,12470,False
+H106,completions/H106.txt,completion,n/a,H084,IX,"(1, 1)",0,"Completion pair (1, 1) on core IX",15,6715,13075,True
+H107,completions/H107.txt,completion,n/a,H085,I,"(4, 0)",0,"Completion pair (4, 0) on core I",15,6725,12465,False
+H108,completions/H108.txt,completion,n/a,H086,IX,"(10, 5)",0,"Completion pair (10, 5) on core IX",15,6725,13170,False
+H109,completions/H109.txt,completion,n/a,H087,IX,"(5, 1)",0,"Completion pair (5, 1) on core IX",15,6735,13005,False
+H110,completions/H110.txt,completion,n/a,H088,IX,"(10, 9)",0,"Completion pair (10, 9) on core IX",15,6745,13100,False
+H111,completions/H111.txt,completion,n/a,H089,IX,"(1, 5)",0,"Completion pair (1, 5) on core IX",15,6755,13090,False
+H112,completions/H112.txt,completion,n/a,H090,IX,"(9, 1)",0,"Completion pair (9, 1) on core IX",15,6760,12980,False
+H113,completions/H113.txt,completion,n/a,H091,IX,"(8, 7)",0,"Completion pair (8, 7) on core IX",15,6760,13120,False
+H114,completions/H114.txt,completion,n/a,H092,IX,"(6, 1)",0,"Completion pair (6, 1) on core IX",15,6765,12765,False
+H115,completions/H115.txt,completion,n/a,H093,I,"(4, 3)",0,"Completion pair (4, 3) on core I",15,6770,12465,False
+H116,completions/H116.txt,completion,n/a,H094,IX,"(1, 9)",0,"Completion pair (1, 9) on core IX",15,6775,13020,False
+H117,completions/H117.txt,completion,n/a,H095,IX,"(5, 5)",0,"Completion pair (5, 5) on core IX",15,6775,13020,True
+H118,completions/H118.txt,completion,n/a,H096,I,"(11, 7)",0,"Completion pair (11, 7) on core I",15,6780,12590,False
+H119,completions/H119.txt,completion,n/a,H097,IX,"(10, 2)",0,"Completion pair (10, 2) on core IX",15,6780,13040,False
+H120,completions/H120.txt,completion,n/a,H098,IX,"(5, 9)",0,"Completion pair (5, 9) on core IX",15,6795,12950,False
+H121,completions/H121.txt,completion,n/a,H099,I,"(11, 0)",0,"Completion pair (11, 0) on core I",15,6800,12585,False
+H122,completions/H122.txt,completion,n/a,H100,IX,"(9, 5)",0,"Completion pair (9, 5) on core IX",15,6800,12995,False
+H123,completions/H123.txt,completion,n/a,H101,I,"(3, 7)",0,"Completion pair (3, 7) on core I",15,6805,12425,False
+H124,completions/H124.txt,completion,n/a,H102,IX,"(6, 5)",0,"Completion pair (6, 5) on core IX",15,6805,12780,False
+H125,completions/H125.txt,completion,n/a,H103,IX,"(1, 2)",0,"Completion pair (1, 2) on core IX",15,6810,12960,False
+H126,completions/H126.txt,completion,n/a,H104,I,"(1, 2)",0,"Completion pair (1, 2) on core I",15,6820,12615,False
+H127,completions/H127.txt,completion,n/a,H105,IX,"(9, 9)",0,"Completion pair (9, 9) on core IX",15,6820,12925,True
+H128,completions/H128.txt,completion,n/a,H106,IX,"(10, 6)",0,"Completion pair (10, 6) on core IX",15,6820,12985,False
+H129,completions/H129.txt,completion,n/a,H107,I,"(3, 0)",0,"Completion pair (3, 0) on core I",15,6825,12420,False
+H130,completions/H130.txt,completion,n/a,H108,I,"(4, 8)",0,"Completion pair (4, 8) on core I",15,6825,12430,False
+H131,completions/H131.txt,completion,n/a,H109,IX,"(6, 9)",0,"Completion pair (6, 9) on core IX",15,6825,12710,False
+H132,completions/H132.txt,completion,n/a,H110,II,"(3, 4)",0,"Completion pair (3, 4) on core II",15,6825,12760,False
+H133,completions/H133.txt,completion,n/a,H112,IX,"(5, 2)",0,"Completion pair (5, 2) on core IX",15,6830,12890,False
+H134,completions/H134.txt,completion,n/a,H113,IX,"(0, 7)",0,"Completion pair (0, 7) on core IX",15,6830,13030,False
+H135,completions/H135.txt,completion,n/a,H114,I,"(10, 2)",0,"Completion pair (10, 2) on core I",15,6835,12490,False
+H136,completions/H136.txt,completion,n/a,H115,II,"(0, 4)",0,"Completion pair (0, 4) on core II",15,6835,12740,False
+H137,completions/H137.txt,completion,n/a,H116,IX,"(7, 8)",0,"Completion pair (7, 8) on core IX",15,6835,12805,False
+H138,completions/H138.txt,completion,n/a,H117,I,"(11, 3)",0,"Completion pair (11, 3) on core I",15,6845,12585,False
+H139,completions/H139.txt,completion,n/a,H118,II,"(3, 8)",0,"Completion pair (3, 8) on core II",15,6845,12785,False
+H140,completions/H140.txt,completion,n/a,H119,I,"(7, 0)",0,"Completion pair (7, 0) on core I",15,6850,12665,False
+H141,completions/H141.txt,completion,n/a,H120,IX,"(7, 0)",0,"Completion pair (7, 0) on core IX",15,6850,12845,False
+H142,completions/H142.txt,completion,n/a,H121,IX,"(1, 6)",0,"Completion pair (1, 6) on core IX",15,6850,12905,False
+H143,completions/H143.txt,completion,n/a,H122,IX,"(2, 1)",0,"Completion pair (2, 1) on core IX",15,6850,13075,False
+H144,completions/H144.txt,completion,n/a,H123,II,"(0, 8)",0,"Completion pair (0, 8) on core II",15,6855,12765,False
+H145,completions/H145.txt,completion,n/a,H124,IX,"(9, 2)",0,"Completion pair (9, 2) on core IX",15,6855,12865,False
+H146,completions/H146.txt,completion,n/a,H125,IX,"(6, 2)",0,"Completion pair (6, 2) on core IX",15,6860,12650,False
+H147,completions/H147.txt,completion,n/a,H126,II,"(11, 4)",0,"Completion pair (11, 4) on core II",15,6865,12805,False
+H148,completions/H148.txt,completion,n/a,H128,II,"(3, 3)",0,"Completion pair (3, 3) on core II",15,6870,12560,True
+H149,completions/H149.txt,completion,n/a,H129,IX,"(5, 6)",0,"Completion pair (5, 6) on core IX",15,6870,12835,False
+H150,completions/H150.txt,completion,n/a,H130,II,"(3, 11)",0,"Completion pair (3, 11) on core II",15,6875,12690,False
+H151,completions/H151.txt,completion,n/a,H131,IX,"(4, 7)",0,"Completion pair (4, 7) on core IX",15,6875,12955,False
+H152,completions/H152.txt,completion,n/a,H132,II,"(0, 3)",0,"Completion pair (0, 3) on core II",15,6880,12540,False
+H153,completions/H153.txt,completion,n/a,H133,II,"(0, 11)",0,"Completion pair (0, 11) on core II",15,6885,12670,False
+H154,completions/H154.txt,completion,n/a,H134,II,"(11, 8)",0,"Completion pair (11, 8) on core II",15,6885,12830,False
+H155,completions/H155.txt,completion,n/a,H135,IX,"(2, 5)",0,"Completion pair (2, 5) on core IX",15,6890,13090,False
+H156,completions/H156.txt,completion,n/a,H136,I,"(4, 11)",0,"Completion pair (4, 11) on core I",15,6895,12505,False
+H157,completions/H157.txt,completion,n/a,H137,I,"(7, 3)",0,"Completion pair (7, 3) on core I",15,6895,12665,False
+H158,completions/H158.txt,completion,n/a,H138,IX,"(9, 6)",0,"Completion pair (9, 6) on core IX",15,6895,12810,False
+H159,completions/H159.txt,completion,n/a,H139,I,"(0, 7)",0,"Completion pair (0, 7) on core I",15,6900,12365,False
+H160,completions/H160.txt,completion,n/a,H140,I,"(11, 8)",0,"Completion pair (11, 8) on core I",15,6900,12550,False
+H161,completions/H161.txt,completion,n/a,H141,IX,"(6, 6)",0,"Completion pair (6, 6) on core IX",15,6900,12595,True
+H162,completions/H162.txt,completion,n/a,H142,II,"(11, 3)",0,"Completion pair (11, 3) on core II",15,6910,12605,False
+H163,completions/H163.txt,completion,n/a,H143,II,"(2, 10)",0,"Completion pair (2, 10) on core II",15,6910,12635,False
+H164,completions/H164.txt,completion,n/a,H144,IX,"(2, 9)",0,"Completion pair (2, 9) on core IX",15,6910,13020,False
+H165,completions/H165.txt,completion,n/a,H145,II,"(9, 2)",0,"Completion pair (9, 2) on core II",15,6915,12595,False
+H166,completions/H166.txt,completion,n/a,H146,II,"(11, 11)",0,"Completion pair (11, 11) on core II",15,6915,12735,True
+H167,completions/H167.txt,completion,n/a,H148,I,"(2, 10)",0,"Completion pair (2, 10) on core I",15,6920,12550,False
+H168,completions/H168.txt,completion,n/a,H149,I,"(3, 8)",0,"Completion pair (3, 8) on core I",15,6925,12385,False
+H169,completions/H169.txt,completion,n/a,H150,I,"(8, 7)",0,"Completion pair (8, 7) on core I",15,6925,12550,False
+H170,completions/H170.txt,completion,n/a,H151,I,"(2, 1)",0,"Completion pair (2, 1) on core I",15,6925,12605,False
+H171,completions/H171.txt,completion,n/a,H152,II,"(2, 5)",0,"Completion pair (2, 5) on core II",15,6935,12660,False
+H172,completions/H172.txt,completion,n/a,H153,II,"(2, 9)",0,"Completion pair (2, 9) on core II",15,6940,12490,False
+H173,completions/H173.txt,completion,n/a,H154,IX,"(7, 11)",0,"Completion pair (7, 11) on core IX",15,6940,12820,False
+H174,completions/H174.txt,completion,n/a,H155,IX,"(10, 10)",0,"Completion pair (10, 10) on core IX",15,6940,13010,True
+H175,completions/H175.txt,completion,n/a,H156,IX,"(7, 3)",0,"Completion pair (7, 3) on core IX",15,6940,13080,False
+H176,completions/H176.txt,completion,n/a,H157,I,"(8, 0)",0,"Completion pair (8, 0) on core I",15,6945,12545,False
+H177,completions/H177.txt,completion,n/a,H158,IX,"(2, 2)",0,"Completion pair (2, 2) on core IX",15,6945,12960,True
+H178,completions/H178.txt,completion,n/a,H159,I,"(7, 8)",0,"Completion pair (7, 8) on core I",15,6950,12630,False
+H179,completions/H179.txt,completion,n/a,H160,I,"(2, 6)",0,"Completion pair (2, 6) on core I",15,6960,12455,False
+H180,completions/H180.txt,completion,n/a,H161,I,"(0, 3)",0,"Completion pair (0, 3) on core I",15,6965,12360,False
+H181,completions/H181.txt,completion,n/a,H162,I,"(5, 2)",0,"Completion pair (5, 2) on core I",15,6965,12735,False
+H182,completions/H182.txt,completion,n/a,H164,II,"(8, 4)",0,"Completion pair (8, 4) on core II",15,6970,12870,False
+H183,completions/H183.txt,completion,n/a,H165,IX,"(1, 10)",0,"Completion pair (1, 10) on core IX",15,6970,12930,False
+H184,completions/H184.txt,completion,n/a,H166,II,"(6, 2)",0,"Completion pair (6, 2) on core II",15,6980,12550,False
+H185,completions/H185.txt,completion,n/a,H167,I,"(6, 2)",0,"Completion pair (6, 2) on core I",15,6980,12600,False
+H186,completions/H186.txt,completion,n/a,H168,IX,"(2, 6)",0,"Completion pair (2, 6) on core IX",15,6985,12905,False
+H187,completions/H187.txt,completion,n/a,H169,I,"(8, 3)",0,"Completion pair (8, 3) on core I",15,6990,12545,False
+H188,completions/H188.txt,completion,n/a,H170,II,"(3, 7)",0,"Completion pair (3, 7) on core II",15,6990,12630,False
+H189,completions/H189.txt,completion,n/a,H171,IX,"(5, 10)",0,"Completion pair (5, 10) on core IX",15,6990,12860,False
+H190,completions/H190.txt,completion,n/a,H172,II,"(8, 8)",0,"Completion pair (8, 8) on core II",15,6990,12895,True
+H191,completions/H191.txt,completion,n/a,H173,I,"(2, 9)",0,"Completion pair (2, 9) on core I",15,6995,12380,False
+H192,completions/H192.txt,completion,n/a,H174,I,"(3, 11)",0,"Completion pair (3, 11) on core I",15,6995,12460,False
+H193,completions/H193.txt,completion,n/a,H176,II,"(0, 7)",0,"Completion pair (0, 7) on core II",15,7000,12610,False
+H194,completions/H194.txt,completion,n/a,H177,II,"(10, 2)",0,"Completion pair (10, 2) on core II",15,7000,12730,False
+H195,completions/H195.txt,completion,n/a,H178,II,"(4, 4)",0,"Completion pair (4, 4) on core II",15,7000,12795,True
+H196,completions/H196.txt,completion,n/a,H179,II,"(7, 4)",0,"Completion pair (7, 4) on core II",15,7010,12600,False
+H197,completions/H197.txt,completion,n/a,H180,II,"(8, 3)",0,"Completion pair (8, 3) on core II",15,7015,12670,False
+H198,completions/H198.txt,completion,n/a,H181,IX,"(9, 10)",0,"Completion pair (9, 10) on core IX",15,7015,12835,False
+H199,completions/H199.txt,completion,n/a,H182,I,"(0, 8)",0,"Completion pair (0, 8) on core I",15,7020,12325,False
+H200,completions/H200.txt,completion,n/a,H183,IX,"(6, 10)",0,"Completion pair (6, 10) on core IX",15,7020,12620,False
+H201,completions/H201.txt,completion,n/a,H184,I,"(7, 11)",0,"Completion pair (7, 11) on core I",15,7020,12705,False
+H202,completions/H202.txt,completion,n/a,H185,II,"(8, 11)",0,"Completion pair (8, 11) on core II",15,7020,12800,False
+H203,completions/H203.txt,completion,n/a,H186,II,"(2, 6)",0,"Completion pair (2, 6) on core II",15,7020,12805,False
+H204,completions/H204.txt,completion,n/a,H187,II,"(4, 8)",0,"Completion pair (4, 8) on core II",15,7020,12820,False
+H205,completions/H205.txt,completion,n/a,H188,II,"(7, 8)",0,"Completion pair (7, 8) on core II",15,7030,12625,False
+H206,completions/H206.txt,completion,n/a,H189,II,"(11, 7)",0,"Completion pair (11, 7) on core II",15,7030,12675,False
+H207,completions/H207.txt,completion,n/a,H190,I,"(2, 5)",0,"Completion pair (2, 5) on core I",15,7040,12595,False
+H208,completions/H208.txt,completion,n/a,H192,II,"(4, 3)",0,"Completion pair (4, 3) on core II",15,7045,12595,False
+H209,completions/H209.txt,completion,n/a,H193,II,"(5, 2)",0,"Completion pair (5, 2) on core II",15,7045,12780,False
+H210,completions/H210.txt,completion,n/a,H194,II,"(4, 11)",0,"Completion pair (4, 11) on core II",15,7050,12725,False
+H211,completions/H211.txt,completion,n/a,H195,II,"(7, 3)",0,"Completion pair (7, 3) on core II",15,7055,12400,False
+H212,completions/H212.txt,completion,n/a,H196,II,"(7, 11)",0,"Completion pair (7, 11) on core II",15,7060,12530,False
+H213,completions/H213.txt,completion,n/a,H197,II,"(3, 0)",0,"Completion pair (3, 0) on core II",15,7060,12605,False
+H214,completions/H214.txt,completion,n/a,H198,II,"(0, 0)",0,"Completion pair (0, 0) on core II",15,7070,12585,True
+H215,completions/H215.txt,completion,n/a,H199,I,"(11, 4)",0,"Completion pair (11, 4) on core I",15,7070,12625,False
+H216,completions/H216.txt,completion,n/a,H200,IX,"(7, 4)",0,"Completion pair (7, 4) on core IX",15,7070,12940,False
+H217,completions/H217.txt,completion,n/a,H201,II,"(1, 2)",0,"Completion pair (1, 2) on core II",15,7075,12620,False
+H218,completions/H218.txt,completion,n/a,H202,II,"(2, 1)",0,"Completion pair (2, 1) on core II",15,7080,12475,False
+H219,completions/H219.txt,completion,n/a,H203,I,"(0, 11)",0,"Completion pair (0, 11) on core I",15,7090,12400,False
+H220,completions/H220.txt,completion,n/a,H204,I,"(9, 2)",0,"Completion pair (9, 2) on core I",15,7090,12525,False
+H221,completions/H221.txt,completion,n/a,H205,I,"(3, 4)",0,"Completion pair (3, 4) on core I",15,7095,12460,False
+H222,completions/H222.txt,completion,n/a,H206,II,"(11, 0)",0,"Completion pair (11, 0) on core II",15,7100,12650,False
+H223,completions/H223.txt,completion,n/a,H207,IX,"(2, 10)",0,"Completion pair (2, 10) on core IX",15,7105,12930,False
+H224,completions/H224.txt,completion,n/a,H208,I,"(8, 11)",0,"Completion pair (8, 11) on core I",15,7115,12585,False
+H225,completions/H225.txt,completion,n/a,H209,I,"(7, 4)",0,"Completion pair (7, 4) on core I",15,7120,12705,False
+H226,completions/H226.txt,completion,n/a,H210,II,"(8, 7)",0,"Completion pair (8, 7) on core II",15,7135,12740,False
+H227,completions/H227.txt,completion,n/a,H211,II,"(4, 7)",0,"Completion pair (4, 7) on core II",15,7165,12665,False
+H228,completions/H228.txt,completion,n/a,H212,II,"(7, 7)",0,"Completion pair (7, 7) on core II",15,7175,12470,True
+H229,completions/H229.txt,completion,n/a,H213,I,"(0, 4)",0,"Completion pair (0, 4) on core I",15,7190,12400,False
+H230,completions/H230.txt,completion,n/a,H214,II,"(8, 0)",0,"Completion pair (8, 0) on core II",15,7205,12715,False
+H231,completions/H231.txt,completion,n/a,H215,I,"(8, 4)",0,"Completion pair (8, 4) on core I",15,7215,12585,False
+H232,completions/H232.txt,completion,n/a,H216,II,"(4, 0)",0,"Completion pair (4, 0) on core II",15,7235,12640,False
+H233,completions/H233.txt,completion,n/a,H217,II,"(7, 0)",0,"Completion pair (7, 0) on core II",15,7245,12445,False
+H234,completions/H234.txt,completion,n/a,H218,IX,"(3, 1)",0,"Completion pair (3, 1) on core IX",16,6635,13060,False
+H235,completions/H235.txt,completion,n/a,H219,IX,"(11, 1)",0,"Completion pair (11, 1) on core IX",16,6670,13010,False
+H236,completions/H236.txt,completion,n/a,H220,IX,"(3, 5)",0,"Completion pair (3, 5) on core IX",16,6675,13075,False
+H237,completions/H237.txt,completion,n/a,H221,IX,"(3, 9)",0,"Completion pair (3, 9) on core IX",16,6695,13005,False
+H238,completions/H238.txt,completion,n/a,H222,I,"(1, 7)",0,"Completion pair (1, 7) on core I",16,6700,12530,False
+H239,completions/H239.txt,completion,n/a,H223,IX,"(10, 8)",0,"Completion pair (10, 8) on core IX",16,6705,12960,False
+H240,completions/H240.txt,completion,n/a,H224,IX,"(11, 5)",0,"Completion pair (11, 5) on core IX",16,6710,13025,False
+H241,completions/H241.txt,completion,n/a,H225,I,"(10, 7)",0,"Completion pair (10, 7) on core I",16,6715,12405,False
+H242,completions/H242.txt,completion,n/a,H226,I,"(1, 0)",0,"Completion pair (1, 0) on core I",16,6720,12525,False
+H243,completions/H243.txt,completion,n/a,H227,IX,"(10, 0)",0,"Completion pair (10, 0) on core IX",16,6720,13000,False
+H244,completions/H244.txt,completion,n/a,H228,IX,"(3, 2)",0,"Completion pair (3, 2) on core IX",16,6730,12945,False
+H245,completions/H245.txt,completion,n/a,H229,IX,"(11, 9)",0,"Completion pair (11, 9) on core IX",16,6730,12955,False
+H246,completions/H246.txt,completion,n/a,H231,IX,"(1, 8)",0,"Completion pair (1, 8) on core IX",16,6735,12880,False
+H247,completions/H247.txt,completion,n/a,H232,IX,"(8, 1)",0,"Completion pair (8, 1) on core IX",16,6735,13080,False
+H248,completions/H248.txt,completion,n/a,H233,IX,"(1, 0)",0,"Completion pair (1, 0) on core IX",16,6750,12920,False
+H249,completions/H249.txt,completion,n/a,H234,IX,"(5, 8)",0,"Completion pair (5, 8) on core IX",16,6755,12810,False
+H250,completions/H250.txt,completion,n/a,H235,I,"(1, 3)",0,"Completion pair (1, 3) on core I",16,6765,12525,False
+H251,completions/H251.txt,completion,n/a,H236,IX,"(11, 2)",0,"Completion pair (11, 2) on core IX",16,6765,12895,False
+H252,completions/H252.txt,completion,n/a,H237,I,"(4, 10)",0,"Completion pair (4, 10) on core I",16,6770,12490,False
+H253,completions/H253.txt,completion,n/a,H238,IX,"(5, 0)",0,"Completion pair (5, 0) on core IX",16,6770,12850,False
+H254,completions/H254.txt,completion,n/a,H239,IX,"(3, 6)",0,"Completion pair (3, 6) on core IX",16,6770,12890,False
+H255,completions/H255.txt,completion,n/a,H240,I,"(4, 1)",0,"Completion pair (4, 1) on core I",16,6775,12545,False
+H256,completions/H256.txt,completion,n/a,H241,IX,"(8, 5)",0,"Completion pair (8, 5) on core IX",16,6775,13095,False
+H257,completions/H257.txt,completion,n/a,H242,I,"(10, 3)",0,"Completion pair (10, 3) on core I",16,6780,12400,False
+H258,completions/H258.txt,completion,n/a,H243,IX,"(9, 8)",0,"Completion pair (9, 8) on core IX",16,6780,12785,False
+H259,completions/H259.txt,completion,n/a,H244,IX,"(6, 8)",0,"Completion pair (6, 8) on core IX",16,6785,12570,False
+H260,completions/H260.txt,completion,n/a,H245,IX,"(9, 0)",0,"Completion pair (9, 0) on core IX",16,6795,12825,False
+H261,completions/H261.txt,completion,n/a,H246,IX,"(8, 9)",0,"Completion pair (8, 9) on core IX",16,6795,13025,False
+H262,completions/H262.txt,completion,n/a,H247,IX,"(6, 0)",0,"Completion pair (6, 0) on core IX",16,6800,12610,False
+H263,completions/H263.txt,completion,n/a,H248,IX,"(11, 6)",0,"Completion pair (11, 6) on core IX",16,6805,12840,False
+H264,completions/H264.txt,completion,n/a,H249,IX,"(0, 1)",0,"Completion pair (0, 1) on core IX",16,6805,12990,False
+H265,completions/H265.txt,completion,n/a,H250,I,"(4, 6)",0,"Completion pair (4, 6) on core I",16,6810,12395,False
+H266,completions/H266.txt,completion,n/a,H251,IX,"(10, 11)",0,"Completion pair (10, 11) on core IX",16,6810,12975,False
+H267,completions/H267.txt,completion,n/a,H252,IX,"(10, 3)",0,"Completion pair (10, 3) on core IX",16,6810,13235,False
+H268,completions/H268.txt,completion,n/a,H254,IX,"(8, 2)",0,"Completion pair (8, 2) on core IX",16,6830,12965,False
+H269,completions/H269.txt,completion,n/a,H255,I,"(10, 8)",0,"Completion pair (10, 8) on core I",16,6835,12365,False
+H270,completions/H270.txt,completion,n/a,H256,II,"(9, 4)",0,"Completion pair (9, 4) on core II",16,6835,12715,False
+H271,completions/H271.txt,completion,n/a,H257,IX,"(1, 11)",0,"Completion pair (1, 11) on core IX",16,6840,12895,False
+H272,completions/H272.txt,completion,n/a,H258,IX,"(1, 3)",0,"Completion pair (1, 3) on core IX",16,6840,13155,False
+H273,completions/H273.txt,completion,n/a,H260,I,"(11, 10)",0,"Completion pair (11, 10) on core I",16,6845,12610,False
+H274,completions/H274.txt,completion,n/a,H262,II,"(3, 10)",0,"Completion pair (3, 10) on core II",16,6845,12700,False
+H275,completions/H275.txt,completion,n/a,H263,IX,"(0, 5)",0,"Completion pair (0, 5) on core IX",16,6845,13005,False
+H276,completions/H276.txt,completion,n/a,H264,I,"(11, 1)",0,"Completion pair (11, 1) on core I",16,6850,12665,False
+H277,completions/H277.txt,completion,n/a,H265,IX,"(4, 1)",0,"Completion pair (4, 1) on core IX",16,6850,12915,False
+H278,completions/H278.txt,completion,n/a,H266,II,"(0, 10)",0,"Completion pair (0, 10) on core II",16,6855,12680,False
+H279,completions/H279.txt,completion,n/a,H267,II,"(9, 8)",0,"Completion pair (9, 8) on core II",16,6855,12740,False
+H280,completions/H280.txt,completion,n/a,H268,I,"(6, 7)",0,"Completion pair (6, 7) on core I",16,6860,12515,False
+H281,completions/H281.txt,completion,n/a,H269,IX,"(5, 11)",0,"Completion pair (5, 11) on core IX",16,6860,12825,False
+H282,completions/H282.txt,completion,n/a,H270,IX,"(5, 3)",0,"Completion pair (5, 3) on core IX",16,6860,13085,False
+H283,completions/H283.txt,completion,n/a,H271,I,"(5, 0)",0,"Completion pair (5, 0) on core I",16,6865,12645,False
+H284,completions/H284.txt,completion,n/a,H272,IX,"(0, 9)",0,"Completion pair (0, 9) on core IX",16,6865,12935,False
+H285,completions/H285.txt,completion,n/a,H273,I,"(3, 10)",0,"Completion pair (3, 10) on core I",16,6870,12445,False
+H286,completions/H286.txt,completion,n/a,H274,II,"(3, 5)",0,"Completion pair (3, 5) on core II",16,6870,12725,False
+H287,completions/H287.txt,completion,n/a,H275,IX,"(2, 8)",0,"Completion pair (2, 8) on core IX",16,6870,12880,False
+H288,completions/H288.txt,completion,n/a,H276,IX,"(8, 6)",0,"Completion pair (8, 6) on core IX",16,6870,12910,False
+H289,completions/H289.txt,completion,n/a,H277,I,"(3, 1)",0,"Completion pair (3, 1) on core I",16,6875,12500,False
+H290,completions/H290.txt,completion,n/a,H278,II,"(3, 9)",0,"Completion pair (3, 9) on core II",16,6875,12555,False
+H291,completions/H291.txt,completion,n/a,H279,I,"(6, 0)",0,"Completion pair (6, 0) on core I",16,6880,12510,False
+H292,completions/H292.txt,completion,n/a,H280,II,"(9, 3)",0,"Completion pair (9, 3) on core II",16,6880,12515,False
+H293,completions/H293.txt,completion,n/a,H281,II,"(0, 5)",0,"Completion pair (0, 5) on core II",16,6880,12705,False
+H294,completions/H294.txt,completion,n/a,H282,I,"(11, 6)",0,"Completion pair (11, 6) on core I",16,6885,12515,False
+H295,completions/H295.txt,completion,n/a,H283,II,"(0, 9)",0,"Completion pair (0, 9) on core II",16,6885,12535,False
+H296,completions/H296.txt,completion,n/a,H284,II,"(9, 11)",0,"Completion pair (9, 11) on core II",16,6885,12645,False
+H297,completions/H297.txt,completion,n/a,H285,II,"(11, 10)",0,"Completion pair (11, 10) on core II",16,6885,12745,False
+H298,completions/H298.txt,completion,n/a,H286,IX,"(9, 11)",0,"Completion pair (9, 11) on core IX",16,6885,12800,False
+H299,completions/H299.txt,completion,n/a,H287,IX,"(2, 0)",0,"Completion pair (2, 0) on core IX",16,6885,12920,False
+H300,completions/H300.txt,completion,n/a,H288,IX,"(9, 3)",0,"Completion pair (9, 3) on core IX",16,6885,13060,False
+H301,completions/H301.txt,completion,n/a,H289,I,"(4, 5)",0,"Completion pair (4, 5) on core I",16,6890,12535,False
+H302,completions/H302.txt,completion,n/a,H290,I,"(1, 11)",0,"Completion pair (1, 11) on core I",16,6890,12565,False
+H303,completions/H303.txt,completion,n/a,H291,IX,"(6, 11)",0,"Completion pair (6, 11) on core IX",16,6890,12585,False
+H304,completions/H304.txt,completion,n/a,H292,IX,"(6, 3)",0,"Completion pair (6, 3) on core IX",16,6890,12845,False
+H305,completions/H305.txt,completion,n/a,H293,IX,"(3, 10)",0,"Completion pair (3, 10) on core IX",16,6890,12915,False
+H306,completions/H306.txt,completion,n/a,H294,IX,"(4, 5)",0,"Completion pair (4, 5) on core IX",16,6890,12930,False
+H307,completions/H307.txt,completion,n/a,H295,I,"(7, 10)",0,"Completion pair (7, 10) on core I",16,6895,12690,False
+H308,completions/H308.txt,completion,n/a,H296,II,"(6, 4)",0,"Completion pair (6, 4) on core II",16,6900,12670,False
+H309,completions/H309.txt,completion,n/a,H297,I,"(7, 1)",0,"Completion pair (7, 1) on core I",16,6900,12745,False
+H310,completions/H310.txt,completion,n/a,H298,IX,"(0, 2)",0,"Completion pair (0, 2) on core IX",16,6900,12875,False
+H311,completions/H311.txt,completion,n/a,H299,I,"(10, 11)",0,"Completion pair (10, 11) on core I",16,6905,12440,False
+H312,completions/H312.txt,completion,n/a,H301,I,"(5, 3)",0,"Completion pair (5, 3) on core I",16,6910,12645,False
+H313,completions/H313.txt,completion,n/a,H302,II,"(11, 5)",0,"Completion pair (11, 5) on core II",16,6910,12770,False
+H314,completions/H314.txt,completion,n/a,H303,IX,"(4, 9)",0,"Completion pair (4, 9) on core IX",16,6910,12860,False
+H315,completions/H315.txt,completion,n/a,H304,II,"(11, 9)",0,"Completion pair (11, 9) on core II",16,6915,12600,False
+H316,completions/H316.txt,completion,n/a,H305,I,"(11, 9)",0,"Completion pair (11, 9) on core I",16,6920,12440,False
+H317,completions/H317.txt,completion,n/a,H306,II,"(6, 8)",0,"Completion pair (6, 8) on core II",16,6920,12695,False
+H318,completions/H318.txt,completion,n/a,H307,II,"(10, 4)",0,"Completion pair (10, 4) on core II",16,6920,12850,False
+H319,completions/H319.txt,completion,n/a,H309,IX,"(11, 10)",0,"Completion pair (11, 10) on core IX",16,6925,12865,False
+H320,completions/H320.txt,completion,n/a,H310,I,"(7, 6)",0,"Completion pair (7, 6) on core I",16,6935,12595,False
+H321,completions/H321.txt,completion,n/a,H311,IX,"(0, 6)",0,"Completion pair (0, 6) on core IX",16,6940,12820,False
+H322,completions/H322.txt,completion,n/a,H312,II,"(10, 8)",0,"Completion pair (10, 8) on core II",16,6940,12875,False
+H323,completions/H323.txt,completion,n/a,H313,IX,"(10, 4)",0,"Completion pair (10, 4) on core IX",16,6940,13095,False
+H324,completions/H324.txt,completion,n/a,H314,I,"(3, 9)",0,"Completion pair (3, 9) on core I",16,6945,12275,False
+H325,completions/H325.txt,completion,n/a,H315,II,"(6, 3)",0,"Completion pair (6, 3) on core II",16,6945,12470,False
+H326,completions/H326.txt,completion,n/a,H316,IX,"(4, 2)",0,"Completion pair (4, 2) on core IX",16,6945,12800,False
+H327,completions/H327.txt,completion,n/a,H317,II,"(6, 11)",0,"Completion pair (6, 11) on core II",16,6950,12600,False
+H328,completions/H328.txt,completion,n/a,H318,II,"(3, 6)",0,"Completion pair (3, 6) on core II",16,6955,12870,False
+H329,completions/H329.txt,completion,n/a,H320,I,"(5, 8)",0,"Completion pair (5, 8) on core I",16,6965,12610,False
+H330,completions/H330.txt,completion,n/a,H321,II,"(10, 3)",0,"Completion pair (10, 3) on core II",16,6965,12650,False
+H331,completions/H331.txt,completion,n/a,H322,I,"(11, 5)",0,"Completion pair (11, 5) on core I",16,6965,12655,False
+H332,completions/H332.txt,completion,n/a,H323,II,"(0, 6)",0,"Completion pair (0, 6) on core II",16,6965,12850,False
+H333,completions/H333.txt,completion,n/a,H324,II,"(5, 4)",0,"Completion pair (5, 4) on core II",16,6965,12900,False
+H334,completions/H334.txt,completion,n/a,H325,I,"(0, 1)",0,"Completion pair (0, 1) on core I",16,6970,12440,False
+H335,completions/H335.txt,completion,n/a,H326,I,"(9, 7)",0,"Completion pair (9, 7) on core I",16,6970,12440,False
+H336,completions/H336.txt,completion,n/a,H327,I,"(7, 9)",0,"Completion pair (7, 9) on core I",16,6970,12520,False
+H337,completions/H337.txt,completion,n/a,H328,II,"(10, 11)",0,"Completion pair (10, 11) on core II",16,6970,12780,False
+H338,completions/H338.txt,completion,n/a,H329,IX,"(1, 4)",0,"Completion pair (1, 4) on core IX",16,6970,13015,False
+H339,completions/H339.txt,completion,n/a,H330,IX,"(2, 11)",0,"Completion pair (2, 11) on core IX",16,6975,12895,False
+H340,completions/H340.txt,completion,n/a,H331,IX,"(2, 3)",0,"Completion pair (2, 3) on core IX",16,6975,13155,False
+H341,completions/H341.txt,completion,n/a,H332,I,"(6, 8)",0,"Completion pair (6, 8) on core I",16,6980,12475,False
+H342,completions/H342.txt,completion,n/a,H333,IX,"(4, 6)",0,"Completion pair (4, 6) on core IX",16,6985,12745,False
+H343,completions/H343.txt,completion,n/a,H334,II,"(5, 8)",0,"Completion pair (5, 8) on core II",16,6985,12925,False
+H344,completions/H344.txt,completion,n/a,H335,I,"(9, 0)",0,"Completion pair (9, 0) on core I",16,6990,12435,False
+H345,completions/H345.txt,completion,n/a,H336,I,"(3, 5)",0,"Completion pair (3, 5) on core I",16,6990,12490,False
+H346,completions/H346.txt,completion,n/a,H337,I,"(1, 4)",0,"Completion pair (1, 4) on core I",16,6990,12565,False
+H347,completions/H347.txt,completion,n/a,H338,I,"(8, 10)",0,"Completion pair (8, 10) on core I",16,6990,12570,False
+H348,completions/H348.txt,completion,n/a,H339,II,"(8, 10)",0,"Completion pair (8, 10) on core II",16,6990,12810,False
+H349,completions/H349.txt,completion,n/a,H340,IX,"(8, 10)",0,"Completion pair (8, 10) on core IX",16,6990,12935,False
+H350,completions/H350.txt,completion,n/a,H341,IX,"(5, 4)",0,"Completion pair (5, 4) on core IX",16,6990,12945,False
+H351,completions/H351.txt,completion,n/a,H343,II,"(1, 4)",0,"Completion pair (1, 4) on core II",16,6995,12740,False
+H352,completions/H352.txt,completion,n/a,H344,II,"(11, 6)",0,"Completion pair (11, 6) on core II",16,6995,12915,False
+H353,completions/H353.txt,completion,n/a,H345,II,"(9, 7)",0,"Completion pair (9, 7) on core II",16,7000,12585,False
+H354,completions/H354.txt,completion,n/a,H346,I,"(0, 6)",0,"Completion pair (0, 6) on core I",16,7005,12290,False
+H355,completions/H355.txt,completion,n/a,H347,I,"(10, 4)",0,"Completion pair (10, 4) on core I",16,7005,12440,False
+H356,completions/H356.txt,completion,n/a,H348,II,"(5, 3)",0,"Completion pair (5, 3) on core II",16,7010,12700,False
+H357,completions/H357.txt,completion,n/a,H349,II,"(3, 1)",0,"Completion pair (3, 1) on core II",16,7015,12540,False
+H358,completions/H358.txt,completion,n/a,H351,II,"(1, 8)",0,"Completion pair (1, 8) on core II",16,7015,12765,False
+H359,completions/H359.txt,completion,n/a,H352,II,"(5, 11)",0,"Completion pair (5, 11) on core II",16,7015,12830,False
+H360,completions/H360.txt,completion,n/a,H353,II,"(8, 5)",0,"Completion pair (8, 5) on core II",16,7015,12835,False
+H361,completions/H361.txt,completion,n/a,H354,IX,"(9, 4)",0,"Completion pair (9, 4) on core IX",16,7015,12920,False
+H362,completions/H362.txt,completion,n/a,H355,II,"(8, 9)",0,"Completion pair (8, 9) on core II",16,7020,12665,False
+H363,completions/H363.txt,completion,n/a,H356,IX,"(6, 4)",0,"Completion pair (6, 4) on core IX",16,7020,12705,False
+H364,completions/H364.txt,completion,n/a,H357,II,"(4, 10)",0,"Completion pair (4, 10) on core II",16,7020,12735,False
+H365,completions/H365.txt,completion,n/a,H358,II,"(0, 1)",0,"Completion pair (0, 1) on core II",16,7025,12520,False
+H366,completions/H366.txt,completion,n/a,H359,I,"(8, 6)",0,"Completion pair (8, 6) on core I",16,7030,12475,False
+H367,completions/H367.txt,completion,n/a,H360,II,"(7, 10)",0,"Completion pair (7, 10) on core II",16,7030,12540,False
+H368,completions/H368.txt,completion,n/a,H361,I,"(9, 3)",0,"Completion pair (9, 3) on core I",16,7035,12435,False
+H369,completions/H369.txt,completion,n/a,H362,I,"(5, 11)",0,"Completion pair (5, 11) on core I",16,7035,12685,False
+H370,completions/H370.txt,completion,n/a,H363,I,"(0, 9)",0,"Completion pair (0, 9) on core I",16,7040,12215,False
+H371,completions/H371.txt,completion,n/a,H364,II,"(1, 3)",0,"Completion pair (1, 3) on core II",16,7040,12540,False
+H372,completions/H372.txt,completion,n/a,H365,II,"(1, 11)",0,"Completion pair (1, 11) on core II",16,7045,12670,False
+H373,completions/H373.txt,completion,n/a,H366,II,"(4, 5)",0,"Completion pair (4, 5) on core II",16,7045,12760,False
+H374,completions/H374.txt,completion,n/a,H367,I,"(6, 11)",0,"Completion pair (6, 11) on core I",16,7050,12550,False
+H375,completions/H375.txt,completion,n/a,H368,II,"(4, 9)",0,"Completion pair (4, 9) on core II",16,7050,12590,False
+H376,completions/H376.txt,completion,n/a,H369,II,"(7, 5)",0,"Completion pair (7, 5) on core II",16,7055,12565,False
+H377,completions/H377.txt,completion,n/a,H370,II,"(11, 1)",0,"Completion pair (11, 1) on core II",16,7055,12585,False
+H378,completions/H378.txt,completion,n/a,H371,II,"(7, 9)",0,"Completion pair (7, 9) on core II",16,7060,12395,False
+H379,completions/H379.txt,completion,n/a,H372,IX,"(0, 10)",0,"Completion pair (0, 10) on core IX",16,7060,12845,False
+H380,completions/H380.txt,completion,n/a,H373,I,"(8, 9)",0,"Completion pair (8, 9) on core I",16,7065,12400,False
+H381,completions/H381.txt,completion,n/a,H374,II,"(6, 7)",0,"Completion pair (6, 7) on core II",16,7065,12540,False
+H382,completions/H382.txt,completion,n/a,H375,II,"(9, 0)",0,"Completion pair (9, 0) on core II",16,7070,12560,False
+H383,completions/H383.txt,completion,n/a,H376,I,"(0, 5)",0,"Completion pair (0, 5) on core I",16,7085,12430,False
+H384,completions/H384.txt,completion,n/a,H377,II,"(10, 7)",0,"Completion pair (10, 7) on core II",16,7085,12720,False
+H385,completions/H385.txt,completion,n/a,H378,I,"(9, 8)",0,"Completion pair (9, 8) on core I",16,7090,12400,False
+H386,completions/H386.txt,completion,n/a,H379,II,"(8, 6)",0,"Completion pair (8, 6) on core II",16,7100,12980,False
+H387,completions/H387.txt,completion,n/a,H380,IX,"(4, 10)",0,"Completion pair (4, 10) on core IX",16,7105,12770,False
+H388,completions/H388.txt,completion,n/a,H381,IX,"(2, 4)",0,"Completion pair (2, 4) on core IX",16,7105,13015,False
+H389,completions/H389.txt,completion,n/a,H382,I,"(8, 5)",0,"Completion pair (8, 5) on core I",16,7110,12615,False
+H390,completions/H390.txt,completion,n/a,H383,II,"(5, 7)",0,"Completion pair (5, 7) on core II",16,7130,12770,False
+H391,completions/H391.txt,completion,n/a,H384,II,"(4, 6)",0,"Completion pair (4, 6) on core II",16,7130,12905,False
+H392,completions/H392.txt,completion,n/a,H385,II,"(6, 0)",0,"Completion pair (6, 0) on core II",16,7135,12515,False
+H393,completions/H393.txt,completion,n/a,H386,I,"(5, 4)",0,"Completion pair (5, 4) on core I",16,7135,12685,False
+H394,completions/H394.txt,completion,n/a,H387,II,"(7, 6)",0,"Completion pair (7, 6) on core II",16,7140,12710,False
+H395,completions/H395.txt,completion,n/a,H388,I,"(6, 4)",0,"Completion pair (6, 4) on core I",16,7150,12550,False
+H396,completions/H396.txt,completion,n/a,H389,II,"(10, 0)",0,"Completion pair (10, 0) on core II",16,7155,12695,False
+H397,completions/H397.txt,completion,n/a,H390,I,"(9, 11)",0,"Completion pair (9, 11) on core I",16,7160,12475,False
+H398,completions/H398.txt,completion,n/a,H391,II,"(1, 7)",0,"Completion pair (1, 7) on core II",16,7160,12610,False
+H399,completions/H399.txt,completion,n/a,H392,II,"(8, 1)",0,"Completion pair (8, 1) on core II",16,7160,12650,False
+H400,completions/H400.txt,completion,n/a,H393,II,"(4, 1)",0,"Completion pair (4, 1) on core II",16,7190,12575,False
+H401,completions/H401.txt,completion,n/a,H394,II,"(7, 1)",0,"Completion pair (7, 1) on core II",16,7200,12380,False
+H402,completions/H402.txt,completion,n/a,H395,II,"(5, 0)",0,"Completion pair (5, 0) on core II",16,7200,12745,False
+H403,completions/H403.txt,completion,n/a,H396,II,"(1, 0)",0,"Completion pair (1, 0) on core II",16,7230,12585,False
+H404,completions/H404.txt,completion,n/a,H398,IX,"(3, 8)",0,"Completion pair (3, 8) on core IX",17,6655,12865,False
+H405,completions/H405.txt,completion,n/a,H399,IX,"(3, 0)",0,"Completion pair (3, 0) on core IX",17,6670,12905,False
+H406,completions/H406.txt,completion,n/a,H400,IX,"(11, 8)",0,"Completion pair (11, 8) on core IX",17,6690,12815,False
+H407,completions/H407.txt,completion,n/a,H401,IX,"(11, 0)",0,"Completion pair (11, 0) on core IX",17,6705,12855,False
+H408,completions/H408.txt,completion,n/a,H402,IX,"(8, 8)",0,"Completion pair (8, 8) on core IX",17,6755,12885,True
+H409,completions/H409.txt,completion,n/a,H403,IX,"(3, 11)",0,"Completion pair (3, 11) on core IX",17,6760,12880,False
+H410,completions/H410.txt,completion,n/a,H404,IX,"(3, 3)",0,"Completion pair (3, 3) on core IX",17,6760,13140,True
+H411,completions/H411.txt,completion,n/a,H405,I,"(1, 10)",0,"Completion pair (1, 10) on core I",17,6765,12550,False
+H412,completions/H412.txt,completion,n/a,H407,IX,"(8, 0)",0,"Completion pair (8, 0) on core IX",17,6770,12925,False
+H413,completions/H413.txt,completion,n/a,H409,I,"(10, 1)",0,"Completion pair (10, 1) on core I",17,6785,12480,False
+H414,completions/H414.txt,completion,n/a,H410,IX,"(11, 11)",0,"Completion pair (11, 11) on core IX",17,6795,12830,True
+H415,completions/H415.txt,completion,n/a,H411,IX,"(11, 3)",0,"Completion pair (11, 3) on core IX",17,6795,13090,False
+H416,completions/H416.txt,completion,n/a,H412,I,"(1, 6)",0,"Completion pair (1, 6) on core I",17,6805,12455,False
+H417,completions/H417.txt,completion,n/a,H413,I,"(10, 6)",0,"Completion pair (10, 6) on core I",17,6820,12330,False
+H418,completions/H418.txt,completion,n/a,H414,IX,"(0, 8)",0,"Completion pair (0, 8) on core IX",17,6825,12795,False
+H419,completions/H419.txt,completion,n/a,H415,I,"(1, 9)",0,"Completion pair (1, 9) on core I",17,6840,12380,False
+H420,completions/H420.txt,completion,n/a,H416,IX,"(0, 0)",0,"Completion pair (0, 0) on core IX",17,6840,12835,True
+H421,completions/H421.txt,completion,n/a,H417,I,"(10, 9)",0,"Completion pair (10, 9) on core I",17,6855,12255,False
+H422,completions/H422.txt,completion,n/a,H418,II,"(9, 10)",0,"Completion pair (9, 10) on core II",17,6855,12655,False
+H423,completions/H423.txt,completion,n/a,H419,IX,"(8, 11)",0,"Completion pair (8, 11) on core IX",17,6860,12900,False
+H424,completions/H424.txt,completion,n/a,H420,IX,"(8, 3)",0,"Completion pair (8, 3) on core IX",17,6860,13160,False
+H425,completions/H425.txt,completion,n/a,H421,IX,"(4, 8)",0,"Completion pair (4, 8) on core IX",17,6870,12720,False
+H426,completions/H426.txt,completion,n/a,H422,II,"(9, 5)",0,"Completion pair (9, 5) on core II",17,6880,12680,False
+H427,completions/H427.txt,completion,n/a,H423,II,"(9, 9)",0,"Completion pair (9, 9) on core II",17,6885,12510,True
+H428,completions/H428.txt,completion,n/a,H424,I,"(1, 5)",0,"Completion pair (1, 5) on core I",17,6885,12595,False
+H429,completions/H429.txt,completion,n/a,H425,IX,"(4, 0)",0,"Completion pair (4, 0) on core IX",17,6885,12760,False
+H430,completions/H430.txt,completion,n/a,H426,IX,"(3, 4)",0,"Completion pair (3, 4) on core IX",17,6890,13000,False
+H431,completions/H431.txt,completion,n/a,H427,I,"(10, 5)",0,"Completion pair (10, 5) on core I",17,6900,12470,False
+H432,completions/H432.txt,completion,n/a,H428,I,"(5, 10)",0,"Completion pair (5, 10) on core I",17,6910,12670,False
+H433,completions/H433.txt,completion,n/a,H429,I,"(5, 1)",0,"Completion pair (5, 1) on core I",17,6915,12725,False
+H434,completions/H434.txt,completion,n/a,H430,II,"(6, 10)",0,"Completion pair (6, 10) on core II",17,6920,12610,False
+H435,completions/H435.txt,completion,n/a,H431,I,"(6, 10)",0,"Completion pair (6, 10) on core I",17,6925,12535,False
+H436,completions/H436.txt,completion,n/a,H432,IX,"(11, 4)",0,"Completion pair (11, 4) on core IX",17,6925,12950,False
+H437,completions/H437.txt,completion,n/a,H433,I,"(6, 1)",0,"Completion pair (6, 1) on core I",17,6930,12590,False
+H438,completions/H438.txt,completion,n/a,H434,IX,"(0, 11)",0,"Completion pair (0, 11) on core IX",17,6930,12810,False
+H439,completions/H439.txt,completion,n/a,H435,IX,"(0, 3)",0,"Completion pair (0, 3) on core IX",17,6930,13070,False
+H440,completions/H440.txt,completion,n/a,H436,II,"(10, 10)",0,"Completion pair (10, 10) on core II",17,6940,12790,True
+H441,completions/H441.txt,completion,n/a,H437,II,"(6, 5)",0,"Completion pair (6, 5) on core II",17,6945,12635,False
+H442,completions/H442.txt,completion,n/a,H438,II,"(6, 9)",0,"Completion pair (6, 9) on core II",17,6950,12465,False
+H443,completions/H443.txt,completion,n/a,H439,I,"(5, 6)",0,"Completion pair (5, 6) on core I",17,6950,12575,False
+H444,completions/H444.txt,completion,n/a,H441,II,"(10, 5)",0,"Completion pair (10, 5) on core II",17,6965,12815,False
+H445,completions/H445.txt,completion,n/a,H442,II,"(9, 6)",0,"Completion pair (9, 6) on core II",17,6965,12825,False
+H446,completions/H446.txt,completion,n/a,H443,II,"(10, 9)",0,"Completion pair (10, 9) on core II",17,6970,12645,False
+H447,completions/H447.txt,completion,n/a,H444,IX,"(4, 11)",0,"Completion pair (4, 11) on core IX",17,6975,12735,False
+H448,completions/H448.txt,completion,n/a,H445,IX,"(4, 3)",0,"Completion pair (4, 3) on core IX",17,6975,12995,False
+H449,completions/H449.txt,completion,n/a,H446,I,"(5, 9)",0,"Completion pair (5, 9) on core I",17,6985,12500,False
+H450,completions/H450.txt,completion,n/a,H447,II,"(5, 10)",0,"Completion pair (5, 10) on core II",17,6985,12840,False
+H451,completions/H451.txt,completion,n/a,H448,IX,"(8, 4)",0,"Completion pair (8, 4) on core IX",17,6990,13020,False
+H452,completions/H452.txt,completion,n/a,H449,I,"(6, 9)",0,"Completion pair (6, 9) on core I",17,7000,12365,False
+H453,completions/H453.txt,completion,n/a,H450,II,"(5, 5)",0,"Completion pair (5, 5) on core II",17,7010,12865,True
+H454,completions/H454.txt,completion,n/a,H451,II,"(1, 10)",0,"Completion pair (1, 10) on core II",17,7015,12680,False
+H455,completions/H455.txt,completion,n/a,H452,II,"(5, 9)",0,"Completion pair (5, 9) on core II",17,7015,12695,False
+H456,completions/H456.txt,completion,n/a,H453,II,"(9, 1)",0,"Completion pair (9, 1) on core II",17,7025,12495,False
+H457,completions/H457.txt,completion,n/a,H456,I,"(9, 10)",0,"Completion pair (9, 10) on core I",17,7035,12460,False
+H458,completions/H458.txt,completion,n/a,H457,I,"(9, 1)",0,"Completion pair (9, 1) on core I",17,7040,12515,False
+H459,completions/H459.txt,completion,n/a,H458,II,"(1, 5)",0,"Completion pair (1, 5) on core II",17,7040,12705,False
+H460,completions/H460.txt,completion,n/a,H459,II,"(1, 9)",0,"Completion pair (1, 9) on core II",17,7045,12535,False
+H461,completions/H461.txt,completion,n/a,H460,I,"(6, 5)",0,"Completion pair (6, 5) on core I",17,7045,12580,False
+H462,completions/H462.txt,completion,n/a,H461,II,"(10, 6)",0,"Completion pair (10, 6) on core II",17,7050,12960,False
+H463,completions/H463.txt,completion,n/a,H462,IX,"(0, 4)",0,"Completion pair (0, 4) on core IX",17,7060,12930,False
+H464,completions/H464.txt,completion,n/a,H463,I,"(9, 6)",0,"Completion pair (9, 6) on core I",17,7075,12365,False
+H465,completions/H465.txt,completion,n/a,H464,II,"(6, 1)",0,"Completion pair (6, 1) on core II",17,7090,12450,False
+H466,completions/H466.txt,completion,n/a,H465,II,"(5, 6)",0,"Completion pair (5, 6) on core II",17,7095,13010,False
+H467,completions/H467.txt,completion,n/a,H466,IX,"(4, 4)",0,"Completion pair (4, 4) on core IX",17,7105,12855,True
+H468,completions/H468.txt,completion,n/a,H468,II,"(10, 1)",0,"Completion pair (10, 1) on core II",17,7110,12630,False
+H469,completions/H469.txt,completion,n/a,H469,II,"(1, 6)",0,"Completion pair (1, 6) on core II",17,7125,12850,False
+H470,completions/H470.txt,completion,n/a,H470,I,"(9, 5)",0,"Completion pair (9, 5) on core I",17,7155,12505,False
+H471,completions/H471.txt,completion,n/a,H471,II,"(5, 1)",0,"Completion pair (5, 1) on core II",17,7155,12680,False
+H472,completions/H472.txt,completion,n/a,H472,II,"(1, 1)",0,"Completion pair (1, 1) on core II",17,7185,12520,True
+H473,rebanded/H473.txt,rebanded,n/a,S001,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,6148,13472,False
+H474,rebanded/H474.txt,rebanded,n/a,S002,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,6150,13350,False
+H475,rebanded/H475.txt,rebanded,n/a,S003,n/a,n/a,0,Found by re-banding the 25|5|5 split,10,6388,13392,False
+H476,rebanded/H476.txt,rebanded,n/a,S004,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,6678,12842,False
+H477,rebanded/H477.txt,rebanded,n/a,S005,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,6864,12680,False
+H478,rebanded/H478.txt,rebanded,n/a,S006,n/a,n/a,0,Found by re-banding the 25|5|5 split,10,7224,12920,False
+H479,rebanded/H479.txt,rebanded,n/a,S007,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,7234,12590,False
+H480,rebanded/H480.txt,rebanded,n/a,S008,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,7490,12290,False
+H481,rebanded/H481.txt,rebanded,n/a,S009,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,10,7650,12450,True
+H482,rebanded/H482.txt,rebanded,n/a,S010,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6130,13510,False
+H483,rebanded/H483.txt,rebanded,n/a,S011,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6148,13442,False
+H484,rebanded/H484.txt,rebanded,n/a,S012,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6158,13582,False
+H485,rebanded/H485.txt,rebanded,n/a,S013,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6168,13312,False
+H486,rebanded/H486.txt,rebanded,n/a,S014,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6178,13452,False
+H487,rebanded/H487.txt,rebanded,n/a,S015,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6180,13280,False
+H488,rebanded/H488.txt,rebanded,n/a,S016,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,6380,13340,False
+H489,rebanded/H489.txt,rebanded,n/a,S017,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,6388,13392,False
+H490,rebanded/H490.txt,rebanded,n/a,S018,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6658,13002,False
+H491,rebanded/H491.txt,rebanded,n/a,S019,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6708,12772,False
+H492,rebanded/H492.txt,rebanded,n/a,S020,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6864,12650,False
+H493,rebanded/H493.txt,rebanded,n/a,S021,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6874,12790,False
+H494,rebanded/H494.txt,rebanded,n/a,S022,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6884,12520,False
+H495,rebanded/H495.txt,rebanded,n/a,S023,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6894,12660,False
+H496,rebanded/H496.txt,rebanded,n/a,S024,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,6972,12592,False
+H497,rebanded/H497.txt,rebanded,n/a,S025,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7009,12610,False
+H498,rebanded/H498.txt,rebanded,n/a,S026,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7057,12612,False
+H499,rebanded/H499.txt,rebanded,n/a,S027,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7094,12630,False
+H500,rebanded/H500.txt,rebanded,n/a,S028,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,7108,12712,False
+H501,rebanded/H501.txt,rebanded,n/a,S029,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7214,12750,False
+H502,rebanded/H502.txt,rebanded,n/a,S030,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,7224,12920,False
+H503,rebanded/H503.txt,rebanded,n/a,S031,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7264,12520,False
+H504,rebanded/H504.txt,rebanded,n/a,S032,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,7392,12912,False
+H505,rebanded/H505.txt,rebanded,n/a,S033,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7470,12450,False
+H506,rebanded/H506.txt,rebanded,n/a,S034,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7510,12450,True
+H507,rebanded/H507.txt,rebanded,n/a,S035,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7520,12220,False
+H508,rebanded/H508.txt,rebanded,n/a,S036,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,7584,12900,False
+H509,rebanded/H509.txt,rebanded,n/a,S037,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7633,12342,False
+H510,rebanded/H510.txt,rebanded,n/a,S038,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7718,12362,False
+H511,rebanded/H511.txt,rebanded,n/a,S039,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,11,7800,12100,True
+H512,rebanded/H512.txt,rebanded,n/a,S040,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,8040,12480,False
+H513,rebanded/H513.txt,rebanded,n/a,S041,n/a,n/a,0,Found by re-banding the 25|5|5 split,11,8200,12420,True
+H514,rebanded/H514.txt,rebanded,n/a,S042,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6158,13612,False
+H515,rebanded/H515.txt,rebanded,n/a,S043,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6160,13440,False
+H516,rebanded/H516.txt,rebanded,n/a,S044,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6168,13282,False
+H517,rebanded/H517.txt,rebanded,n/a,S045,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6178,13422,False
+H518,rebanded/H518.txt,rebanded,n/a,S046,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,6380,13340,False
+H519,rebanded/H519.txt,rebanded,n/a,S047,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,6388,13392,False
+H520,rebanded/H520.txt,rebanded,n/a,S048,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6688,12932,False
+H521,rebanded/H521.txt,rebanded,n/a,S049,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6874,12820,False
+H522,rebanded/H522.txt,rebanded,n/a,S050,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6884,12490,False
+H523,rebanded/H523.txt,rebanded,n/a,S051,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6894,12630,False
+H524,rebanded/H524.txt,rebanded,n/a,S052,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6954,12630,False
+H525,rebanded/H525.txt,rebanded,n/a,S053,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6972,12562,False
+H526,rebanded/H526.txt,rebanded,n/a,S054,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6982,12702,False
+H527,rebanded/H527.txt,rebanded,n/a,S055,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,6987,12687,True
+H528,rebanded/H528.txt,rebanded,n/a,S056,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7027,12572,False
+H529,rebanded/H529.txt,rebanded,n/a,S057,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7037,12712,False
+H530,rebanded/H530.txt,rebanded,n/a,S058,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7039,12540,False
+H531,rebanded/H531.txt,rebanded,n/a,S059,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7039,12650,False
+H532,rebanded/H532.txt,rebanded,n/a,S060,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7057,12582,False
+H533,rebanded/H533.txt,rebanded,n/a,S061,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7067,12722,False
+H534,rebanded/H534.txt,rebanded,n/a,S062,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7107,12607,True
+H535,rebanded/H535.txt,rebanded,n/a,S063,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,7108,12712,False
+H536,rebanded/H536.txt,rebanded,n/a,S064,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7112,12592,False
+H537,rebanded/H537.txt,rebanded,n/a,S065,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7122,12732,False
+H538,rebanded/H538.txt,rebanded,n/a,S066,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7124,12560,False
+H539,rebanded/H539.txt,rebanded,n/a,S067,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,7224,12920,False
+H540,rebanded/H540.txt,rebanded,n/a,S068,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7244,12680,False
+H541,rebanded/H541.txt,rebanded,n/a,S069,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,7384,12860,False
+H542,rebanded/H542.txt,rebanded,n/a,S070,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,7392,12912,False
+H543,rebanded/H543.txt,rebanded,n/a,S071,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7500,12380,False
+H544,rebanded/H544.txt,rebanded,n/a,S072,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7578,12362,False
+H545,rebanded/H545.txt,rebanded,n/a,S073,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,7584,12900,False
+H546,rebanded/H546.txt,rebanded,n/a,S074,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7660,12100,True
+H547,rebanded/H547.txt,rebanded,n/a,S075,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7663,12272,False
+H548,rebanded/H548.txt,rebanded,n/a,S076,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7663,12382,False
+H549,rebanded/H549.txt,rebanded,n/a,S077,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,12,7748,12292,False
+H550,rebanded/H550.txt,rebanded,n/a,S078,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,8040,12480,False
+H551,rebanded/H551.txt,rebanded,n/a,S079,n/a,n/a,0,Found by re-banding the 25|5|5 split,12,8208,12472,False
+H552,rebanded/H552.txt,rebanded,n/a,S080,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,6967,12607,True
+H553,rebanded/H553.txt,rebanded,n/a,S081,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,6982,12732,False
+H554,rebanded/H554.txt,rebanded,n/a,S082,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,6984,12560,False
+H555,rebanded/H555.txt,rebanded,n/a,S083,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7027,12542,False
+H556,rebanded/H556.txt,rebanded,n/a,S084,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7037,12682,False
+H557,rebanded/H557.txt,rebanded,n/a,S085,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7067,12752,False
+H558,rebanded/H558.txt,rebanded,n/a,S086,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7069,12580,False
+H559,rebanded/H559.txt,rebanded,n/a,S087,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7112,12562,False
+H560,rebanded/H560.txt,rebanded,n/a,S088,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7122,12702,False
+H561,rebanded/H561.txt,rebanded,n/a,S089,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7127,12687,True
+H562,rebanded/H562.txt,rebanded,n/a,S090,n/a,n/a,0,Found by re-banding the 25|5|5 split,13,7384,12860,False
+H563,rebanded/H563.txt,rebanded,n/a,S091,n/a,n/a,0,Found by re-banding the 25|5|5 split,13,7392,12912,True
+H564,rebanded/H564.txt,rebanded,n/a,S092,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7608,12292,False
+H565,rebanded/H565.txt,rebanded,n/a,S093,n/a,n/a,signed rank-one (J-equivalent),Found by re-banding the 25|5|5 split,13,7693,12312,False
+H566,rebanded/H566.txt,rebanded,n/a,S094,n/a,n/a,0,Found by re-banding the 25|5|5 split,13,8208,12472,False
