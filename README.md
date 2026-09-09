@@ -24,11 +24,11 @@ $$41+431+94=566$$
 
 representatives. The numbering is continuous: the first 41 H-numbers agree with the paper's class numbers, the completion batch continues from H042, and the re-banded batch continues from H473.
 
-Each matrix file starts with concise metadata recording $\\Lambda$, the construction method, $\\operatorname{rank}_5$, $\\pi(0)$, $\\pi(1)$, and whether the representative is symmetric. Re-banded files also record the relevant $30\\times30$ and $25\\times25$ block information. The file `representatives/manifest.csv` maps every exported H-number to its published class, original catalogue identifier, core, completion pair, and invariant data.
+Each matrix file starts with concise metadata recording $\\Lambda$, the construction method, $\\mathrm{rank}_5$, $\\pi(0)$, $\\pi(1)$, and whether the representative is symmetric. Re-banded files also record the relevant $30\\times30$ and $25\\times25$ block information. The file `representatives/manifest.csv` maps every exported H-number to its published class, original catalogue identifier, core, completion pair, and invariant data.
 
 The rank distribution is:
 
-| $\\operatorname{rank}_5$ | Number of classes |
+| $\\mathrm{rank}_5$ | Number of classes |
 |---:|---:|
 | 8 | 1 |
 | 9 | 7 |
