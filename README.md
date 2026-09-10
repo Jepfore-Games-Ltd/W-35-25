@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1360035145.svg)](https://doi.org/10.5281/zenodo.22694600)
+
 # W(35,25)
 
 ![Animated W(35,25) representatives](assets/w35-animation.gif)
